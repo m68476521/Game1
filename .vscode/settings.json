@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "2D Android Game 3.sln"
+    "dotnet.defaultSolution": "Game1.sln"
 }
